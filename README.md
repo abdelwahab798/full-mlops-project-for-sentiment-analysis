@@ -1,2 +1,3 @@
-# Capstone-project-educational-purpose
-This is an end to end mlops capstone project for educational purpose
+# Capstone- mlops-project
+This is an end to end mlops capstone project for sentiment-analysis
+
